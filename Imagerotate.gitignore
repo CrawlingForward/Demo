@@ -1,0 +1,11 @@
+\Imagerotate\
+!*.sln
+\Imagerotate\Debug\
+\Imagerotate\Release\
+\Imagerotate\Imagerotate\
+
+!\Imagerotate\Imagerotate\*.vcxproj
+!\Imagerotate\Imagerotate\*.filters
+!\Imagerotate\Imagerotate\*.user
+!\Imagerotate\Imagerotate\*.h
+!\Imagerotate\Imagerotate\*.cpp
